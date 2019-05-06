@@ -29,7 +29,7 @@ mainfont: "STSong"
 ::: {.column width="45%"}
 Basic stages:
 
-![](/Users/chunyu/Desktop/workflow.png)
+![](./workflow.png)
 :::
 
 ::: {.column width="55%"}
@@ -121,7 +121,7 @@ FDA:
 
 ::: {.column width=45%}
 The workflow of FDA:
-![](/Users/chunyu/Desktop/fda.png)
+![](./fda.png)
 :::
 ::::::
 
@@ -142,7 +142,7 @@ The pitch curves of the last syllables:
 
 :::::: {.columns}
 ::: {.column width="70%"}
-![](/Users/chunyu/Desktop/final_q.png)
+![](./final_q.png)
 :::
 ::: {.column width="30%"}
 :::
@@ -153,10 +153,10 @@ The distributions of PC1 and PC2:
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](/Users/chunyu/Desktop/PC1.png)
+![](./PC1.png)
 :::
 ::: {.column width="50%"}
-![](/Users/chunyu/Desktop/PC2.png)
+![](./PC2.png)
 :::
 ::::::
 
@@ -164,7 +164,7 @@ The distributions of PC1 and PC2:
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](/Users/chunyu/Desktop/pc1-pc2.png)
+![](./pc1-pc2.png)
 :::
 ::: {.column width="50%"}
 
@@ -180,7 +180,7 @@ The distributions of PC1 and PC2:
 
 - Experimental designs and experimental practices makes results less replicable:
   + especially in prosodic researches, where speakers often fail to pronounce the speech material in the intended manner;
-- Lack of clear guidelines of speech annotation:
+- Lack of clear guidelines for speech annotation:
   + Prevalent coarticulation;
   + No clear boundary between segments.
 
