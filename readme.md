@@ -15,7 +15,12 @@ pandoc -t beamer --pdf-engine=xelatex rr.md -o rr.pdf
 You will  receive the following warning:
 
 ```bash
-pandoc: /Users/chunyu/Desktop/workflow.png: openBinaryFile: does not exist (No such file or directory)
+[WARNING] Could not fetch resource './workflow.png': replacing image with description
+[WARNING] Could not fetch resource './fda.png': replacing image with description
+[WARNING] Could not fetch resource './final_q.png': replacing image with description
+[WARNING] Could not fetch resource './PC1.png': replacing image with description
+[WARNING] Could not fetch resource './PC2.png': replacing image with description
+[WARNING] Could not fetch resource './pc1-pc2.png': replacing image with description
 ```
 
 The two files included in the `figs` folder can be used to generate the first two figures. You may try to generate these figures by yourself using [R](https://www.r-project.org/) with the [DiagrammeR](https://cran.r-project.org/web/packages/DiagrammeR/index.html) package or [Mermaid](https://mermaidjs.github.io/). You can download all the figures on [my Dropbox](https://www.dropbox.com/sh/gc3s2wke2i6ts83/AACPOz2GrZdE30Qvd9utybO1a?dl=0). Put the figures in the `RR-Cantonese` folder and rerun the code will get the same presentation file as I did. Note that `LaTeX` is also required to generate `beamer` files.
