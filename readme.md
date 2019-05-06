@@ -18,4 +18,6 @@ You will  receive the following warning:
 pandoc: /Users/chunyu/Desktop/workflow.png: openBinaryFile: does not exist (No such file or directory)
 ```
 
-The two files included in the `figs` folder can be used to generate the first two figures. You may try to generate these figures by yourself using [R](https://www.r-project.org/) with the [DiagrammeR](https://cran.r-project.org/web/packages/DiagrammeR/index.html) package or [Mermaid](https://mermaidjs.github.io/). You can contact the author for the other figures. The analyses of Cantonese intonation using FDA relies heavily on the work by [Michele Gubian](https://github.com/uasolo/FDA-DH/). Thus, the codes for data analyses are not uploaded to the repo.
+The two files included in the `figs` folder can be used to generate the first two figures. You may try to generate these figures by yourself using [R](https://www.r-project.org/) with the [DiagrammeR](https://cran.r-project.org/web/packages/DiagrammeR/index.html) package or [Mermaid](https://mermaidjs.github.io/). You can download all the figures on [my Dropbox](https://www.dropbox.com/sh/gc3s2wke2i6ts83/AACPOz2GrZdE30Qvd9utybO1a?dl=0). Put the figures in the `RR-Cantonese` folder and rerun the code will get the same presentation file as I did. Note that `LaTeX` is also required to generate `beamer` files.
+
+The analyses of Cantonese intonation using FDA relies heavily on the work by [Michele Gubian](https://github.com/uasolo/FDA-DH/). Thus, the codes for data analyses are not uploaded to the repo.
